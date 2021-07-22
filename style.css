@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://image.shutterstock.com/display_pic_with_logo/441760/143293528/stock-photo-abstract-blue-background-center-spotlight-gradient-border-frame-vignette-edge-for-web-app-143293528.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#canvas{
+    border-width: 10px;
+	border-style: ridge; 
+	background-color: bisque;
+}
